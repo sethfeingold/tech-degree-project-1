@@ -139,6 +139,11 @@ header .profile-image:hover {
   background-color: rgba(224, 224, 224, 0.918);
 }
 
+.card-pic {
+  border-bottom: 4px solid #d699ee;
+  border-radius: 10px;
+}
+
 .state {
   color: #d699ee;
 }
