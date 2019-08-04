@@ -29,6 +29,7 @@ a:hover {
   color: #6633ff;
 }
 
+
 /* Section Styles */
 
 .nav-bar {
@@ -73,11 +74,19 @@ header {
 
 #where-ive-been-header {
   text-align: center;
-  background: url(images/hotel-room.jpg) no-repeat center ;
+  background: url(images/hotel-room.jpeg) no-repeat center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
   
+}
+
+#experience-header {
+  text-align: center;
+  background: url(images/chicago-streetlights.jpeg) no-repeat center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
 }
 
 header {
