@@ -130,7 +130,7 @@ header .profile-image:hover {
   background-color: rgba(224, 224, 224, 0.918);
 }
 
-#state {
+.state {
   color: #d699ee;
 }
 
