@@ -152,7 +152,21 @@ header .profile-image:hover {
   border-color: #d699ee;
 }
 
+#portland-card {
+  padding: 25px;
+}
 
+#mississippi-card {
+  padding: 25px;
+}
+
+#miami-card {
+  padding: 25px;
+}
+
+#fresno-card {
+  padding: 25px;
+}
 
 ul.skills {
   padding: 0;
